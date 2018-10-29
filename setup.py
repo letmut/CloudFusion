@@ -1,8 +1,3 @@
-'''
-Created on 30.08.2011
-
-@author: joe
-'''
 import setuptools
 setuptools.setup(
     name = "CloudFusion",
@@ -23,6 +18,7 @@ setuptools.setup(
     keywords = ["encoding", "i18n", "xml"],
     classifiers = [
         "Programming Language :: Python :: 2.6",
+        "Programming Language :: Python :: 2.7",
         "Intended Audience :: Developers",
         "Intended Audience :: End Users/Desktop",
         "License :: Other/Proprietary License",
